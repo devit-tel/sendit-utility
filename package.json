@@ -1,6 +1,6 @@
 {
   "name": "sendit-utility",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility component for Sendit react",
   "main": "./dist/index.js",
   "scripts": {
