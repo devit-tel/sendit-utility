@@ -1,2 +1,2 @@
 # sendit-utility
-Input component for Sendit react
+Utility component for Sendit react
